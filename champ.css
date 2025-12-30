@@ -1,0 +1,38 @@
+body{
+    background-color: #E0BCF5;
+}
+.p1 {
+    background-color: #915FAD;
+    color: #f2e9f8;
+    border: 20px;
+    
+    
+}
+.img1 {
+    position: relative;
+    left: 520px;
+    
+    border: 30px
+}
+
+
+.text1 {
+    border: 30px;
+    color: rgb(152, 69, 230);
+   
+    padding-left: 250px;
+    
+    font-family: "Fahkwang"
+    
+}
+
+.container {
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+
+

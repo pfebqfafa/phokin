@@ -1,0 +1,52 @@
+
+body { 
+    background-color: rgb(205, 236, 247);
+}
+
+h1 { 
+    color: #0a1a4e;
+}
+h2 { 
+    color: #0a1a4e;
+}
+.title{
+    background-color: aliceblue;
+    width: fit-content;
+}
+.title2{
+    background-color: aliceblue;
+    width: fit-content;
+}
+.title3{
+    background-color: aliceblue;
+    width: fit-content;
+}
+.title4{
+    background-color: aliceblue;
+    width: fit-content;
+}
+.foo { 
+    background-color: aliceblue;
+
+        width: 300px;
+        height: 100px;
+}
+
+.stitch_img {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+img{
+    border: 10px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+

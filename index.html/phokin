@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- ส่วนที่ไม่แสดงออกไปในหน้าจอของ Browser -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  i ouan </title>
+</head>
+<body>
+<!-- ส่วนที่แสดงออกไปในหน้าจอของ Browser -->
+<!-- 1. html content -->
+<h1> เค้ารักแฟน <h1>
+<h2> เค้ารักแฟน <h2>
+<h3> เค้ารักแฟน <h3>
+<p> &#9829; </p>
+<img src="c:\Users\Dell\Downloads\naraksudnaijai.jpg " alt=" rak fan " > <width:100px;height:100px;>
+</body >
+</html> 
