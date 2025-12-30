@@ -8,31 +8,12 @@ body{
     
     
 }
-.img1 {
-    position: relative;
-    left: 520px;
-    
-    border: 30px
+.img1{ margin-left: 200px;
 }
 
-
-.text1 {
-    border: 30px;
-    color: rgb(152, 69, 230);
-   
-    padding-left: 250px;
-    
-    font-family: "Fahkwang"
-    
+.img2{
+    margin-top: -375px;
+    margin-left: 500px;
 }
-
-.container {
-    display: flex; 
-    flex-direction: row;
-    align-items: center;
-
-}
-
-
 
 
