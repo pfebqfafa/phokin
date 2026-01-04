@@ -1,1 +1,9 @@
-console.log ("PHOKIN")
+function changeImage() {
+  document.getElementById("myImage").src = "image2.jpg";
+}
+
+
+
+
+
+
